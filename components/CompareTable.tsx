@@ -64,7 +64,7 @@ export default function CompareTable() {
             IronClaw vs OpenClaw
           </h2>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-            See exactly what you get with IronClaw that you don&apos;t get with
+            See exactly what you get with IronClaw that you don't get with
             standard OpenClaw.
           </p>
         </div>

@@ -39,7 +39,7 @@ export default function Hero() {
           <p className="text-lg sm:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed mb-10">
             IronClaw is a defense-in-depth security layer for AI coding agents.
             Encrypted vaults, sandboxed tools, and encrypted enclaves — all in
-            one 1-click deploy.
+            one-click deploy.
           </p>
 
           {/* CTA Buttons */}
